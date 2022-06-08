@@ -11,8 +11,6 @@ Gitee（码云）是开源中国于2013年推出的基于Git的代码托管和�
 
 **如果你对 gitee.dev 域名感兴趣**，直接邮件联系我 [mopspecial@gmail.com](mailto:mopspecial@gmail.com)。
 
-### On sale
-- [huaweicloud.dev](https://huaweicloud.dev)
 
 ### For more dev domains you can see 
 ### 其他的dev域名
